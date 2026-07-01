@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-rnc&layout=compact)](https://github.com/manish-rnc)
 -->
+
+Software Engineer passionate about building scalable backend systems, AI-powered applications, and solving real-world engineering problems.
